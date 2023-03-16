@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "midas2"]
+	path = midas2
+	url = https://github.com/sullivan0147/midas2
+	shallow = true
+	registered = true
